@@ -40,15 +40,15 @@ I specialize in building **real-time trading platforms, e-commerce engines, and 
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=postgresql" height="35" /><br><sub>PostgreSQL</sub></td>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=redis" height="35" /><br><sub>Redis</sub></td>
   </tr>
-  <tr>
+ <tr>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=redux" height="35" /><br><sub>Redux</sub></td>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=tailwindcss" height="35" /><br><sub>Tailwind CSS</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=socketio" height="35" /><br><sub>Socket.io</sub></td>
+    <td align="center" valign="middle" width="10%"><img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" height="35" alt="Socket.io" /><br><sub>Socket.io</sub></td>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=aws" height="35" /><br><sub>AWS EC2</sub></td>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=nginx" height="35" /><br><sub>Nginx</sub></td>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=git" height="35" /><br><sub>Git</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=html5" height="35" /><br><sub>HTML5</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=css3" height="35" /><br><sub>CSS3</sub></td>
+    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=html" height="35" /><br><sub>HTML5</sub></td>
+    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=css" height="35" /><br><sub>CSS3</sub></td>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=postman" height="35" /><br><sub>Postman</sub></td>
   </tr>
   <tr>
