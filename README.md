@@ -78,10 +78,7 @@ I specialize in building **real-time trading platforms, e-commerce engines, and 
 
 ### 📊 Telemetry & Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhil213&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhil213&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhil213&theme=tokyonight&hide_border=true&area=true" width="98%" />
